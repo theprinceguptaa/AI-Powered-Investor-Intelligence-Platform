@@ -1,7 +1,7 @@
 # AI-Powered Investor Intelligence Platform
 
 
-This repository contains the Python backend for an AI-powered Investor Intelligence Platform, including document ingestion, pgvector semantic search, KPI extraction, Azure OpenAI integration, and PostgreSQL-based KPI storage.
+This repository contains the Python backend for an AI-powered Investor Intelligence Platform, including document ingestion, pgvector semantic search, KPI extraction, OpenAI integration, and PostgreSQL-based KPI storage.
 
 ## Prerequisites
 
