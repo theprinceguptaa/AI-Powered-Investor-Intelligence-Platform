@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+Jinja2
+python-dotenv
+openai
+sqlalchemy
+psycopg2-binary
+pgvector
+langchain-core
+langchain-openai
+langchain_google_genai
+uv 
+langchain-experimental
+pymupdf4llm
+python-multipart
